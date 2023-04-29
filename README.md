@@ -1,10 +1,10 @@
-# Frozen Lake Environment
+# Frozen Lake Environment :cold_face:
 
 This repository contains the code and data for the frozen lake experiment, which is conducted as part of the course: CO 541 Artificial Intelligence at the Department of Computer Engineering, University of Peradeniya, Sri Lanka.
 
 ## Background
 
-The objective of this experiment was to investigate the performance of different reinforcement learning algorithms on the Frozen Lake environment, which is a popular benchmark environment in the field of reinforcement learning. The Frozen Lake environment is a grid-world game in which an agent moves from one grid cell to another, while trying to avoid falling into holes and reach the goal cell. The agent receives a reward of +1 for reaching the goal cell and a reward of 0 for all other actions.
+The objective of this experiment is to investigate the performance of different reinforcement learning algorithms on the Frozen Lake environment, which is a popular benchmark environment in the field of reinforcement learning. The Frozen Lake environment is a grid-world game in which an agent moves from one grid cell to another, while trying to avoid falling into holes and reach the goal cell. The agent receives a reward of +1 for reaching the goal cell and a reward of 0 for all other actions.
 
 ## Methodology
 
