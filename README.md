@@ -15,7 +15,7 @@ In this experiment, the Q-learning algorithm is used. The training process of th
 This repository contains the following files:
 
 - `frozen_lake.py`: Python script for implementing the reinforcement learning algorithms and running the experiment. Students must implement the given task to complete the algorithm.
-- `.gitignore`: This file is used to specify which files and directories Git should ignore when committing changes to a repository. 
+- `.gitignore`: This file is used to specify which files and directories Git should ignore when committing changes to the repository. 
 - `LICENSE`: This file contains the license terms under which this repository is distributed. It specifies the permissions and restrictions that others have when using, modifying, or distributing the codebase.
 
 ## Usage
